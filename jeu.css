@@ -1,0 +1,9 @@
+.conteneur {
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 30px;
+    position: relative;
+    left: 35%;
+    right: 35%;
+    width: 300px;
+}
